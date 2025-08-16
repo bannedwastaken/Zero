@@ -1,25 +1,9 @@
 {
   "games": [
     {
-      "name": "Adopt Me!",
+      "name": "Hypershot",
       "image": "https://tr.rbxcdn.com/180DAY-cfd72607133e7f54578439917492dbe2/768/432/Image/Png/noFilter",
-      "scripts": 12,
-      "users": "50K+",
-      "status": "Active"
-    },
-    {
-      "name": "Blox Fruits",
-      "image": "https://tr.rbxcdn.com/another-game-image-url.png",
-      "scripts": 8,
-      "users": "75K+",
-      "status": "Active"
-    },
-    {
-      "name": "Arsenal",
-      "image": "https://tr.rbxcdn.com/arsenal-image-url.png",
-      "scripts": 15,
-      "users": "30K+",
-      "status": "Active"
+      "status": "operational"
     }
   ]
 }
